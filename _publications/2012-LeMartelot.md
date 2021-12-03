@@ -1,7 +1,7 @@
 ---
 title: "Genome-Wide RNA Polymerase II Profiles and RNA Accumulation Reveal Kinetics of Transcription and Associated Epigenetic Changes During Diurnal Cycles"
 collection: publications
-permalink: /publication/2012-05-28-Le-Martelot
+permalink: /publication/2012-LeMartelot
 excerpt: 'Genome-Wide RNA Polymerase II Profiles and RNA Accumulation Reveal Kinetics of Transcription and Associated Epigenetic Changes During Diurnal Cycles.'
 date: 2012-05-28
 venue: 'PLoS Biology'
