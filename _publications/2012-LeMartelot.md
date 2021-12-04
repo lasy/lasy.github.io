@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2012-LeMartelot
 date: 2012-05-28
 venue: 'PLoS Biology'
+paperurl: https://journals.plos.org/plosbiology/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001442
 ---
 G. Le Martelot\*, D. Canella\*, __L. Symul__\*, E. Migliavacca\* and F. Gilardi et al.
 
