@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Laura Symul"
 title_separator          : "-"
 name                     : &name "Laura Symul"
-description              : &description "personal description"
+description              : &description "Postdoctoral fellow at Stanford University, Department of Statistics"
 url                      : https://lasy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lasy/lasy.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Laura Symul"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral fellow at Stanford University, Department of Statistics"
   location         : "Stanford"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Laura+Symul" 
