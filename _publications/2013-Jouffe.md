@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2013-Jouffe
 date: 2013-01-03
 venue: 'PLoS Biology'
+paperurl: http://lasy.github.io/files/2013_Jouffe.pdf
 ---
 
 C. Jouffe, G. Cretenet, __L. Symul__, E. Martin and F. Atger et al.
