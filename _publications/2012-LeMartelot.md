@@ -9,5 +9,7 @@ image: http://lasy.github.io/images/publications/2012_LeMartelot.png
 ---
 G. Le Martelot\*, D. Canella\*, __L. Symul__\*, E. Migliavacca\* and F. Gilardi et al.
 
+![figure1a](/images/publications/2012_LeMartelot.png)
+
 [Link to publication](https://journals.plos.org/plosbiology/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1001442) |
 [Download pdf](http://lasy.github.io/files/2012_Le_Martelot.pdf)
