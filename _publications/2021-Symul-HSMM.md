@@ -1,7 +1,7 @@
 ---
 title: "Labeling self-tracked menstrual health records with hidden semi-Markov models."
 collection: publications
-permalink: /publication/2019-Symul
+permalink: /publication/2021-Symul
 date: 2021-09-08
 venue: 'IEEE Journal of Biomedical and Health Informatics'
 paperurl: http://lasy.github.io/files/papers/2021_Symul_HSMM.pdf

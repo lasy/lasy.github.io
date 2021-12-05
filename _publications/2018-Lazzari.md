@@ -1,7 +1,7 @@
 ---
 title: "FoodRepo: an open database of barcoded food products."
 collection: publications
-permalink: /publication/2018-Wang
+permalink: /publication/2018-Lazzari
 date: 2018-07-04
 venue: 'Frontiers in Nutrition'
 paperurl: http://lasy.github.io/files/papers/2018_Lazzari.pdf
