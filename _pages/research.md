@@ -30,13 +30,8 @@ This project is a primary example of a study where accounting for menstrual cycl
 Non-optimal VM composition has been shown to be associated with a series of negative health outcomes such as increased risk of preterm birth, contracting a sexually transmitted infection including HIV, or painful menstruation.
 
 
-![VM_MC](/images/research/figures_VMRC-cycles.png)
-Top: Correlation between vaginal microbiota composition in two consecutive cycles (y-axis) against the amplitude (max-min) of change.
-Bottom: example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue).
-
-
 <figure>
-<img src="/images/publications/VMRC-cycles-horizontal.png" alt="(right) scatter plot of the correlation between vaginal microbiota composition in two consecutive cycles against the amplitude of change, and (left) example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue)">
+<img src="/images/research/VMRC-cycles-horizontal.png" alt="(right) scatter plot of the correlation between vaginal microbiota composition in two consecutive cycles against the amplitude of change, and (left) example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue)">
 
 <figcaption align = "left">
 Right: Correlation between vaginal microbiota composition in two consecutive cycles (y-axis) against the amplitude (max-min) of change.
