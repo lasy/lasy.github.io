@@ -14,7 +14,8 @@ A [first study](https://lasy.github.io/publication/2019-Symul) evaluates whether
 <figure>
 <img src="/images/publications/2021_Symul.png" alt="Time series of body signs self-reported by a user of a fertility tracking app, and the biological states, manually labelled or inferred by our hierarchical hidden semi-Markov model (h-HSMM)" style="width:100%">
 
-<figcaption align = "right">Adapted from <a href="https://lasy.github.io/publication/2021-Symul">Symul and Holmes, 2021</a>. Time series of body signs self-reported by a user of a fertility tracking app (bottom 5 rows), and the biological states (first two rows), manually labelled or inferred by our hierarchical hidden semi-Markov model (h-HSMM). Bleeding: darker shades of orange indicate heavier bleeding. Mucus: transparent, stretchy, egg-white like mucus is shown in blue, sticky mucus is shown in yellow. Temperature: above-average temperatures are shown in red, below-average ones in blue. Positive pregnancy and LH tests are shown in blue, negative ones in red. States (two first rows): pregnancy states are in shades of pink, postpartum states in green, menses are in red, follicular phase in blue, luteal phase in yellow, anovulatory phases are shown in gray.
+<figcaption align = "left">
+Adapted from <a href="https://lasy.github.io/publication/2021-Symul">Symul and Holmes, 2021</a>. Time series of body signs self-reported by a user of a fertility tracking app (bottom 5 rows), and the biological states (first two rows), manually labelled or inferred by our hierarchical hidden semi-Markov model (h-HSMM). Bleeding: darker shades of orange indicate heavier bleeding. Mucus: transparent, stretchy, egg-white like mucus is shown in blue, sticky mucus is shown in yellow. Temperature: above-average temperatures are shown in red, below-average ones in blue. Positive pregnancy and LH tests are shown in blue, negative ones in red. States (two first rows): pregnancy states are in shades of pink, postpartum states in green, menses are in red, follicular phase in blue, luteal phase in yellow, anovulatory phases are shown in gray.
 </figcaption>
 </figure>
 
@@ -34,25 +35,55 @@ Top: Correlation between vaginal microbiota composition in two consecutive cycle
 Bottom: example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue).
 
 
+<figure>
+<img src="/images/publications/VMRC-cycles-horizontal.png" alt="(right) scatter plot of the correlation between vaginal microbiota composition in two consecutive cycles against the amplitude of change, and (left) example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue)">
+
+<figcaption align = "left">
+Right: Correlation between vaginal microbiota composition in two consecutive cycles (y-axis) against the amplitude (max-min) of change.
+Left: example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue).
+</figcaption>
+</figure>
+
+
+
 Beyond characterizing the effects of the menstrual cycle on the VM composition, my contribution also included using mixed membership models (topic models) to characterize the structure of these non-optimal states. In particular, we identified several sub-communities (i.e., groups of co-existing or functionally equivalent bacterial strains) in samples from both pregnant and non-pregnant subjects. This agreement across cohorts suggests that these sub-communities are biologically meaningful, rather than artifacts of our model. My current work within the VMRC focuses on deploying and developing data integration methods to better understand the interactions between the various micro-environment elements of the multi-omics VMRC dataset. Such methods include topic alignment (see figure below) across modalities, an extension of the [framework](https://lasy.github.io/publication/2020-Fukuyama) proposed earlier this year by Dr. Fukuyama (Indiana University), Dr. Sankaran (UW Madison), and myself.
 
 
-![alto](/images/publications/2021_Fukuyama.png)
-Adapted from [Fukuyama, Sankaran and Symul, 2021](https://lasy.github.io/publication/2020-Fukuyama). Topic (fitted from LDA) alignment across K, the number of topics. Topics are aligned based on the similarity in sample composition (top, dot product between the γ) or (dual space) based on the similarity in topic composition (bottom, solving optimal transport between the β).
+<figure>
+<img src="/images/research/topic-alignment-horizontal.png" alt="">
+
+<figcaption align = "left">
+Adapted from <a href="https://lasy.github.io/publication/2021-Fukuyama">Fukuyama, Sankaran and Symul, 2021</a>. Topic (fitted from LDA) alignment across K, the number of topics. Topics are aligned based on the similarity in sample composition (top, dot product between the γ) or (dual space) based on the similarity in topic composition (bottom, solving optimal transport between the β).
+</figcaption>
+</figure>
 
 
 ## Seasonal fertility
 
-Although humans can reproduce all year round, historical records show seasonal oscillations of birth rates. Moreover, seasonal birth rate patterns vary based on location. To investigate whether these seasonal changes in birth rates resulted from changes in sexual activity or fertility, we analyzed self-reported sexual activity data from over half a million users of a menstrual cycle app, Clue, from six locations across both hemispheres. Fitting a statistical model of birth rates from sexual activity and fertility rates to our data indicated that while an increase in sexual activity during local holidays contributed to local peaks in the birth curves, the seasonal changes in births were more likely explained by seasonal changes in fertility. This project was done in collaboration with Prof. Martinez, previously at Columbia University, now at Emory University, and as part of an on-going collaboration with BioWink GmHB, owner of the Clue app, whose data we used for this study.
+Although humans can reproduce all year round, historical records show seasonal oscillations of birth rates. Moreover, seasonal birth rate patterns vary based on location. To investigate whether these seasonal changes in birth rates resulted from changes in sexual activity or fertility, we analyzed self-reported sexual activity data from over half a million users of a menstrual cycle app, Clue, from six locations across both hemispheres. Fitting a statistical model of birth rates from sexual activity and fertility rates to our data indicated that while an increase in sexual activity during local holidays contributed to local peaks in the birth curves, the seasonal changes in births were more likely explained by seasonal changes in fertility. This [project](https://lasy.github.io/publication/2020-Symul) was done in collaboration with Prof. Martinez, previously at Columbia University, now at Emory University, and as part of an on-going collaboration with BioWink GmHB, owner of the Clue app, whose data we used for this study.
 
-Publication: Symul et al., 2020 (pre-print). MedRxiv. ["Unmasking Seasonal Cycles in Human Fertility: How holiday sex and fertility cycles shape birth seasonality"](https://lasy.github.io/publication/2020-Symul)
 
-![Seasonal fertility](/images/research/Seasonality_F3.png)
+<figure>
+<img src="/images/research/Seasonality_F3.png" alt="" style="width:100%">
+
+<figcaption align = "left">
+Adapted from <a href="https://lasy.github.io/publication/2020-Symul">Symul et al., 2020 (preprint)</a>
 (a) Schematics of the three variants of the birth model to test if sexual activity or fertility or both drive seasonal changes in birth rates.  (b) Seasonal component of time series decomposition for data (thick black line) and simulations (thin colored line) with our three models (top: A, middle: B, bottom: C) for each location. Numbers at the bottom of each panel indicate AIC values for the corresponding location and model. (c) Birth data (thick black line) and model C simulations (thin colored line) for each location. (d) Timing and amplitude of the fertility peak for each location and Models B and C showed by solar year.
+</figcaption>
+</figure>
+
 
 ## Transcriptional and posttranscriptional regulation of the mammalian circadian clock
 
 During my PhD in computational biology at EPFL, I authored a series of studies that each focused on a specific step of the circadian regulation of gene expression. Altogether our work showed that rhythmic gene expression (i.e., oscillations in gene expression with a 24-hour period) may result from [rhythmic binding of transcription factors to gene promoters](https://lasy.github.io/publication/2014-Hoffmann), rhythmic activity of the [transcriptional machinery](https://lasy.github.io/publication/2012_LeMartelot), [rhythmic degradation](https://lasy.github.io/publication/2018-Wang) of gene transcripts, or from rhythmic translational activity due to differential abundance of [ribosomal RNA](https://lasy.github.io/publication/2013_Jouffe). Each of these studies relied on statistical analyses of periodic signals identified in multi-omics datasets. My work on identifying which transcripts were rhythmically degraded required the establishment of models describing variations in transcript abundance. While transcript degradation rates are not directly measurable, our models enabled us to infer the degradation rates from transcript production and accumulation rates, which are measurable. These models also allowed us to estimate the probability for a transcript to undergo rhythmic (vs. constant) degradation.
 
-![Rhythmic degradation](/images/publications/2018_Wang.png)
+
+
+<figure>
+<img src="/images/publications/2018_Wang.png" alt="" style="width:100%">
+
+<figcaption align = "left">
+Adapted from <a href="https://lasy.github.io/publication/2018-Wang">Wang, Symul et al., 2018</a>
 Kinetic model identifies contributions and parameters of rhythmic transcription and rhythmic degradation regulating mRNAs from total RNA-seq. Temporal accumulations of mRNA and pre-mRNA from time-resolved total RNA-seq were used to fit four kinetic models (M1–M4). The rate equation for the temporal accumulation of mRNA $m(t)$ depends on pre-mRNA $p(t)$ and the degradation rate γ(t), which are either constant or parameterized with periodic functions. The models allow for constant (C) or rhythmic (R) synthesis (S) and degradation (D) in the four combinations: M1 (constant synthesis and constant degradation, CS-CD), M2 (rhythmic synthesis and constant degradation, RS-CD), M3 (constant synthesis and rhythmic degradation, CS-RD), and M4 (rhythmic synthesis and rhythmic degradation, RS-RD). Probabilities for each model are estimated using Schwarz weights  and the optimal model for each mRNA (one per gene) also yields gene-specific parameters (e.g., mRNA half-life, processing time, phases, and amplitudes of rhythmic degradation rates). This approach was applied genome-wide.
+</figcaption>
+</figure>
