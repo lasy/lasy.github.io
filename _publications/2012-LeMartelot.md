@@ -5,6 +5,7 @@ permalink: /publication/2012-LeMartelot
 date: 2012-05-28
 venue: 'PLoS Biology'
 paperurl: http://lasy.github.io/files/papers/2012_Le_Martelot.pdf
+image: /images/publications/2012_LeMartelot.png
 ---
 G. Le Martelot\*, D. Canella\*, __L. Symul__\*, E. Migliavacca\* and F. Gilardi et al.
 
