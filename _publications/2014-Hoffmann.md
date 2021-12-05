@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2014-Hoffmann
 date: 2014-07-09
 venue: 'PLoS One'
-paperurl: http://lasy.github.io/files/2014_Hoffmann.pdf
+paperurl: http://lasy.github.io/files/papers/2014_Hoffmann.pdf
 ---
 
 J. Hoffmann, __L. Symul__, A. Shostak, T. Fischer, F. Naef and M. Brunner

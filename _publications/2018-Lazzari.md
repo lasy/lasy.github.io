@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2018-Wang
 date: 2018-07-04
 venue: 'Frontiers in Nutrition'
-paperurl: http://lasy.github.io/files/2018_Lazzari.pdf
+paperurl: http://lasy.github.io/files/papers/2018_Lazzari.pdf
 ---
 
 G. Lazzari, Y. Jaquet, D. Kebaili, __L. Symul__, M. Salathé

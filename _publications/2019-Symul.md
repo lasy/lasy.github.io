@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Symul
 date: 2019-07-16
 venue: 'npj Digital Medicine'
-paperurl: http://lasy.github.io/files/2019_Symul.pdf
+paperurl: http://lasy.github.io/files/papers/2019_Symul.pdf
 ---
 
 __L. Symul__, K. Wac, P. Hillard, M. Salathé

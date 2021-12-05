@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-Wever
 date: 2021-06-21
 venue: '2021 NeurIPS Self-Supervised Learning workshop'
-paperurl: http://lasy.github.io/files/2021_Wever.pdf
+paperurl: http://lasy.github.io/files/papers/2021_Wever.pdf
 ---
 F. Wever, T.A. Keller, V. Garcia, __L. Symul__
 

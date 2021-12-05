@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-Symul
 date: 2021-09-08
 venue: 'IEEE Journal of Biomedical and Health Informatics'
-paperurl: http://lasy.github.io/files/2021_Symul_HSMM.pdf
+paperurl: http://lasy.github.io/files/papers/2021_Symul_HSMM.pdf
 ---
 
 __L. Symul__, S. Holmes
