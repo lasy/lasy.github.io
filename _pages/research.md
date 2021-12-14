@@ -31,7 +31,7 @@ Non-optimal VM composition has been shown to be associated with a series of nega
 
 
 <figure>
-<img src="/images/research/VMRC-cycles-horizontal.png" alt="(right) scatter plot of the correlation between vaginal microbiota composition in two consecutive cycles against the amplitude of change, and (left) example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue)">
+<img src="/images/research/VMRC-cycles-horizontal.png" alt="(right) scatter plot of the correlation between vaginal microbiota composition in two consecutive cycles against the amplitude of change, and (left) example of time series of vaginal microbiome composition in two consecutive cycles (cycle 1 in orange, cycle 2 in blue)" style="width:70%">
 
 <figcaption align = "left">
 Right: Correlation between vaginal microbiota composition in two consecutive cycles (y-axis) against the amplitude (max-min) of change.
