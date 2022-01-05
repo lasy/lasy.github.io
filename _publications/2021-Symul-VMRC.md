@@ -3,7 +3,7 @@ title: "Sub-communities of the vaginal ecosystem in pregnant and non-pregnant wo
 collection: publications
 permalink: /publication/2021-Symul-VMRC
 date: 2021-12-10
-venue: 'BioRxiv'
+venue: 'BioRxiv (preprint)'
 paperurl: http://lasy.github.io/files/papers/2021_Symul_VRMC.pdf
 ---
 
