@@ -40,3 +40,5 @@ To install the latest version from GitHub:
 library(devtools)
 devtools::install_github("lasy/cpass")
 ```
+
+If you believe that you may have PMDD (e.g., feel very depressed or have suicidal thoughts before/around your period), get help. For example, [IAPMD](https://iapmd.org) has a lot of resources, such as the self-screening tool, peer-support groups, and can help you find a healthcare professional. Get help now.
