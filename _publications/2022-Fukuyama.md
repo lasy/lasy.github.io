@@ -2,8 +2,8 @@
 title: "Multiscale Analysis of Count Data through Topic Alignment."
 collection: publications
 permalink: /publication/2021-Fukuyama
-date: 2021-06-21
-venue: 'arXiv (pre-print) - under review'
+date: 2022-06-02
+venue: 'Biostatistics'
 paperurl: http://lasy.github.io/files/papers/2021_Fukuyama.pdf
 ---
 J. Fukuyama\*, K. Sankaran\*, __L. Symul__\*
