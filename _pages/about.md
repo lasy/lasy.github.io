@@ -14,7 +14,7 @@ My [research](/research/) focuses on developing statistical methods applied to w
 
 
 <figure>
-<img src="/images/home/figures_Summary.png" alt="Visual summary of research agenda." style="width:100%">
+<img src="/images/home/figures_Summary.png" alt="Visual summary of research agenda." style="width:70%">
 
 <figcaption align = "left">
 Visual summary of research agenda</figcaption>
