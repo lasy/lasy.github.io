@@ -8,7 +8,7 @@ redirect_from:
 
 
 
-I am a postdoctoral fellow at Stanford University, in the Department of Statistics, working with [Prof. Holmes](https://statweb.stanford.edu/~susan/susan_person.html), and currently lecturing [STATS110](/teaching/).
+I am a research scientist at Stanford University, in the Department of Statistics, working with [Prof. Holmes](https://statweb.stanford.edu/~susan/susan_person.html).
 
 My [research](/research/) focuses on developing statistical methods applied to women's health and menstrual health in particular. This includes research on fertility, on cycle-related symptoms and on drivers of changes in vaginal microbiota communities. I address my research questions by creating parametric and nonparametric statistical models of biological processes that I fit to multi-domain clinical data, self-reported digital records (data from mobile phone apps), and publicly available datasets.
 
