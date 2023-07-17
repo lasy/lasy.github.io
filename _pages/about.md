@@ -6,7 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-
+> ✨ NEWS ✨
+From Sept 2023, I am starting a position as a Chargée de cours (equiv. Assistant Prof) at ISBA (Institute for Statistics, Biostatistics, and Actuarial Sciences) at UCLouvain (Belgium). I'll start recruiting doctoral students and postdoc soon (details to follow).
 
 I am a research scientist at Stanford University, in the Department of Statistics, working with [Prof. Holmes](https://statweb.stanford.edu/~susan/susan_person.html).
 
