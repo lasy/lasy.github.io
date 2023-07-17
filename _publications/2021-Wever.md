@@ -9,4 +9,4 @@ paperurl: http://lasy.github.io/files/papers/2021_Wever.pdf
 F. Wever, T.A. Keller, V. Garcia, __L. Symul__
 
 [Link to publication](https://arxiv.org/abs/2106.15577) |
-[Download pdf](http://lasy.github.io/files/2021_Wever.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2021_Wever.pdf)

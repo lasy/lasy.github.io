@@ -10,4 +10,4 @@ paperurl: http://lasy.github.io/files/papers/2014_Hoffmann.pdf
 J. Hoffmann, __L. Symul__, A. Shostak, T. Fischer, F. Naef and M. Brunner
 
 [Link to publication](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102238) |
-[Download pdf](http://lasy.github.io/files/2014_Hoffmann.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2014_Hoffmann.pdf)

@@ -10,4 +10,4 @@ paperurl: http://lasy.github.io/files/papers/2010_Hafner.pdf
 M. Hafner, P. Sacré, __L. Symul__, R. Sepulchre and H. Koeppl.
 
 [Link to publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Qi_sA3AAAAAJ&sortby=pubdate&citation_for_view=Qi_sA3AAAAAJ:9yKSN-GCB0IC) |
-[Download pdf](http://lasy.github.io/files/2010_Hafner.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2010_Hafner.pdf)

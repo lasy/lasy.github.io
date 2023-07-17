@@ -11,4 +11,4 @@ __L. Symul__, S. Holmes
 
 
 [Link to publication](https://ieeexplore.ieee.org/document/9531515) |
-[Download pdf](http://lasy.github.io/files/2021_Symul_HSMM.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2021_Symul_HSMM.pdf)

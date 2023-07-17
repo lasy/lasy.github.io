@@ -12,4 +12,4 @@ __L. Symul__, P. Hsieh, A. Shea, C.R.C. Moreno, D. Skene, S. Holmes, M.E. Martin
 
 
 [Link to publication](https://www.medrxiv.org/content/10.1101/2020.11.19.20235010v1) |
-[Download pdf](http://lasy.github.io/files/2020_Symul.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2020_Symul.pdf)

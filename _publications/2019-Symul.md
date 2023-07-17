@@ -11,4 +11,4 @@ __L. Symul__, K. Wac, P. Hillard, M. Salathé
 
 
 [Link to publication](https://www.nature.com/articles/s41746-019-0139-4) |
-[Download pdf](http://lasy.github.io/files/2019_Symul.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2019_Symul.pdf)

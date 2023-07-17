@@ -11,4 +11,4 @@ __L. Symul__, P. Jeganathan, E. K. Costello, M. France, S. Bloom, J. Ravel, D. K
 
 
 [Link to publication](https://www.biorxiv.org/content/10.1101/2021.12.10.471327v1) |
-[Download pdf](http://lasy.github.io/files/2021_Symul_VMRC.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2021_Symul_VMRC.pdf)
