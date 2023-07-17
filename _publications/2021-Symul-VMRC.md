@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-Symul-VMRC
 date: 2021-12-10
 venue: 'bioRxiv (preprint)'
-paperurl: http://lasy.github.io/files/papers/2021_Symul_VRMC.pdf
+paperurl: http://lasy.github.io/files/papers/2021_Symul_VMRC.pdf
 ---
 
 __L. Symul__, P. Jeganathan, E. K. Costello, M. France, S. Bloom, J. Ravel, D. Kwon, D. Relman, S. Holmes
