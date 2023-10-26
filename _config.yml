@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Laura Symul"
 title_separator          : "-"
 name                     : &name "Laura Symul"
-description              : &description "Postdoctoral fellow at Stanford University, Department of Statistics"
-url                      : https://lasy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Assistant Professor in non-clinical biostatistics, UCLouvain"
+url                      : https://lasy.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lasy/lasy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Laura Symul"
   avatar           : "profile.png"
-  bio              : "Postdoctoral fellow at Stanford University, Department of Statistics"
-  location         : "Stanford"
+  bio              : "Assistant Professor in non-clinical biostatistics, UCLouvain"
+  location         : "UCLouvain"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Laura+Symul" 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Qi_sA3AAAAAJ"
-  email            : "lsymul@stanford.edu"
+  email            : "laura.symul@uclouvain.be"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -187,6 +187,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  posts:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
