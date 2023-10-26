@@ -13,6 +13,6 @@ The workshop was offered by a consortium of research institution and masterfully
 
 <figure>
 <img src="/images/posts/2023_DurbanDSB.png" alt="Flyer for the Durban Data Science Workshop" style="width:100%">
-</figcaption>
+</figure>
 
 It's been a lot of fun working with this super diverse crowd (a bit less than 100 participants coming from all over Africa) and I hope that participants have enjoyed it as much as I did. Above all, I hope this workshop was useful and will open many doors for further learning about reproducible quantitative analyses of biological data. 
