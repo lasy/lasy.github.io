@@ -4,6 +4,9 @@ date: 2023-11-29
 permalink: /posts/2023/11/Subcommunities-paper
 tags:
   - research
+  - vaginal microbiota
+  - women's health
+  - topic models
 ---
 
 In this [paper](http://lasy.github.io/publication/2023-Symul-VMRC-subcommunities), we show that mixed membership models - here, topic models (LDA) - better describe vaginal microbiota composition than "community (state) types" that are based on clustering approaches. 
@@ -20,7 +23,7 @@ So, if you're in need of a dimension reduction method for representing microbiot
 ![figure2](/images/publications/2023_Symul_fig2.png)
 
 
-[Download pdf](http://lasy.github.io/files/papers/2023_Symul_subcommunities.pdf)
+[Download the pdf here](http://lasy.github.io/files/papers/2023_Symul_subcommunities.pdf)
 
 I warmly thanks all my co-authors, the VMRC for their relentless efforts in understanding the vaginal microbiota and how to restore it to a healthy state, and the study participants who accepted a quite intensive collection of swabs.
 
