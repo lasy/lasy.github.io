@@ -13,7 +13,7 @@ The [paper](http://lasy.github.io/publication/2023-Heritier-FoodandYou) provides
 ![figure1](/images/publications/2023_FoodandYou.png)
 
 
-Our analyses show that collected food, glucose, and sleep data follow expected temporal patterns (see Figure 4 below).
+Our analyses indicate that collected food, glucose, and sleep data follow expected temporal patterns (see Figure 4 below).
 
 
 ![figure4](/images/publications/2023_FoodandYou_2.png)
