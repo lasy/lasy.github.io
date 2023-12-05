@@ -10,7 +10,7 @@ tags:
 
 The [paper](http://lasy.github.io/publication/2023-Heritier-FoodandYou) provides a detailed description of the [Food&You](https://www.foodandyou.org) study, its protocol, data acquisition and processing workflows, and a descriptive analysis of the collected data.
 
-![figure1](/images/publications/2023_Foodand.png)
+![figure1](/images/publications/2023_FoodandYou.png)
 
 
 Our analyses show that collected food, glucose, and sleep data follow expected temporal patterns (see Figure 4 below).
