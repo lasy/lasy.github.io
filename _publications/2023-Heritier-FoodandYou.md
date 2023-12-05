@@ -1,16 +1,19 @@
 ---
-title: "Sub-communities of the vaginal ecosystem in pregnant and non-pregnant women."
+title: "Food & You: A digital cohort on personalized nutrition."
 collection: publications
-permalink: /publication/2023-Symul-VMRC-subcommunities
-date: 2023-11-29
-venue: 'Proceedings of the Royal Society B: Biological Sciences'
-paperurl: http://lasy.github.io/files/papers/2023_Symul_subcommunities.pdf
+permalink: /publication/2023-Heritier-FoodandYou
+date: 2023-11-30
+venue: 'PLOS Digital Health'
+paperurl: http://lasy.github.io/files/papers/2023_Heritier_FoodandYou.pdf
 ---
 
-__L. Symul__, P. Jeganathan, E. K. Costello, M. France, S. Bloom, J. Ravel, D. Kwon, D. Relman, S. Holmes
+H. Héritier, C. Allémann, O. Balakiriev, V. Boulanger, S.
+F. Carroll, N. Froidevaux, G. Hugon, Y. Jaquet, D. Kebaili,
+S. Riccardi, G. Rousseau-Leupin, R, M. Salathé, T. Salzmann, R. Singh, __L. Symul__, E. Ugurlu-Baud, P. de Verteuil, M. Salathé
 
-![figure1](/images/publications/2023_Symul.png)
+
+![figure1](/images/publications/2023_FoodandYou.png)
 
 
-[Link to publication](https://royalsocietypublishing.org/doi/10.1098/rspb.2023.1461) |
-[Download pdf](http://lasy.github.io/files/papers/2023_Symul_subcommunities.pdf)
+[Link to publication](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000389) |
+[Download pdf](http://lasy.github.io/files/papers/2023_Heritier_FoodandYou.pdf)
