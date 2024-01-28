@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-> ✨ NEWS ✨
+> ✨ Hiring! ✨
 Hi there! 
-We're hiring a post-doc to work on the statistical integration of multi-omic data generated in the context of an interventional study aiming to restore a healthy vaginal microbiota. Find all the info [here](/posts/2024/01/FRESH-Lactin-V-postdoc).
+We're hiring a post-doc to work on the statistical integration of multi-omic data generated in the context of an interventional study aiming to restore a healthy vaginal microbiota. Find all the info [here](/posts/2024/01/FRESH-Lactin-V-postdoc). Looking forward to working with you 🤗 🤝
 
 
 Hello and Welcome!
