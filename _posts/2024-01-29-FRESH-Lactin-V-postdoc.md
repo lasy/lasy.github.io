@@ -1,11 +1,16 @@
 ---
 title: "Hiring! Postdoc position in biostatistics for women's health"
-date: 2024-01-29
+date: 2024-01-26
 permalink: /posts/2024/01/FRESH-Lactin-V-postdoc
 tags:
   - research
   - hiring
 ---
+
+
+<figure>
+<img src="/images/posts/2024-Hiring.png" alt="Hiring - Fully Funded Postdoctoral Position in Biostatistics/Computational Biology for Women's Health" style="width:100%">
+</figure>
 
 
 **Fully Funded Postdoctoral Position in Biostatistics/Computational Biology for Women's Health**
