@@ -5,16 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-
-
-If you are a student at UCLouvain and experience harrassment, discrimination, or other kind of unappropriate behaviors from other students, assistants, or professors, reach out for [help](https://uclouvain.be/fr/decouvrir/respect/dispositifs-d-aides.html). Do not keep your experience for yourself.
 
 
 ## Teaching and mentoring approach
