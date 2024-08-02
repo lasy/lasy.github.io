@@ -7,8 +7,13 @@ redirect_from:
 ---
 
 > ✨ Hiring! ✨
-Hi there! 
-We're hiring a post-doc to work on the statistical integration of multi-omic data generated in the context of an interventional study aiming to restore a healthy vaginal microbiota. Find all the info [here](/posts/2024/01/FRESH-Lactin-V-postdoc). Looking forward to working with you 🤗 🤝
+> 
+> Hi there!
+> 
+> [ISBA](https://uclouvain.be/en/research-institutes/lidam/isba) is hiring doctoral students to assist with teaching and research. Contact us for more information, we are looking forward to meeting you 🤗 🤝
+>
+> 
+
 
 
 Hello and Welcome!
@@ -24,6 +29,7 @@ My [research](/research/) focuses on developing statistical methods applied to w
 <figcaption align = "left">
 Visual summary of research agenda</figcaption>
 </figure>
+
 
 I obtained my PhD in computational biology from the École Polytechnique Fédérale de Lausanne (EPFL), in Switzerland, where I worked on the molecular regulation of the circadian clock. In particular I was interested in the regulation of rhythmic gene expression and protein translation combining analyses of -omics data with mathematical models describing the regulatory dynamics to infer quantities otherwise not measurable.
 
