@@ -9,7 +9,6 @@ paperurl: http://lasy.github.io/files/papers/2025_Bloom_Symul_LactinV.pdf
 
 
 Seth M. Bloom+, **Laura Symul**+, Joseph Elsherbini, Jiawu Xu, Salina Hussain, Johnathan Shih, Ashley Sango, Caroline M. Mitchell, Anke Hemmerling, Thomas P. Parks, Aditi Kannan, Fatima A. Hussain, Craig R. Cohen, Susan P. Holmes, and Douglas S. Kwon
-
 +: authors contributed equally
 
 ![figure1](/images/publications/2025_Bloom_Symul.png)
