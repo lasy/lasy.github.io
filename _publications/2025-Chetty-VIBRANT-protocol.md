@@ -3,7 +3,7 @@ title: "Randomized trial of multi-strain Lactobacillus crispatus vaginal live bi
 collection: publications
 permalink: /publication/2025-Chetty-VIBRANT-protocol
 date: 2025-12-01
-venue: 'Contemporary Clinical Trials Communications,'
+venue: 'Contemporary Clinical Trials Communications'
 paperurl: http://lasy.github.io/files/papers/2025_Chetty_VIBRANT_protocol.pdf
 ---
 
