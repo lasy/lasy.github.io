@@ -36,6 +36,5 @@ I obtained my PhD in computational biology from the École Polytechnique Fédér
 I have also specialized in the visualization of data and, during my industry experience, have helped companies and organizations to take data-driven decisions.
 
 
-```{=html}
 <center><img src="http://ghchart.rshah.org/lasy" alt="Laura Symul's Github chart" /, width = "100%", height = "100%"></a></center>
-```
+
