@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-If you are a student at UCLouvain and experience harrassment, discrimination, or other kind of unappropriate behaviors from other students, assistants, or professors, reach out for [help](https://uclouvain.be/fr/decouvrir/respect/dispositifs-d-aides.html). Do not keep your experience for yourself.
+If you are a student at UCLouvain and experience harrassment, discrimination, or other kind of unappropriate behaviors from other students, assistants, or professors, please, reach out for [help](https://www.uclouvain.be/fr/respect/cellule-d-aide-together). You are not alone.
 
 
 {% include base_path %}
@@ -24,7 +24,7 @@ I learned about [backward course design](https://en.wikipedia.org/wiki/Backward_
 
 ### Growth mindset
 
-My recent encounter with the work of Dr. Dweck and her colleagues on [mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset) has had a profound effect on me and is now guiding my teaching and mentoring approach. Dr. Dweck is an Education and Psychology scholar who pioneered research on mindset and its link to (scholarly) success. Her work and that of her colleagues have identified sets of beliefs associated with fixed vs growth mindsets. While everyone lies somewhere on the spectrum between these two extremes, their research has shown that students with a growth mindset were more successful and resilient. Fortunately, a growth mindset could be cultivated by educators and oneself. I now try to integrate recommended practices to nurture students’ growth mindset. For example, I go through examples with students and mentees and share my thought process with them and explain how the failure of current models (including those we are working on together) is required for scientific progress and personal growth. I do my best to provide specific, formative, and supportive feedback so that students understand where and why improvement is necessary.
+My encounter with the work of Dr. Dweck and her colleagues on [mindset](https://en.wikipedia.org/wiki/Mindset#Fixed_and_growth_mindset) has had a profound effect on me and is now guiding my teaching and mentoring approach. Dr. Dweck is an Education and Psychology scholar who pioneered research on mindset and its link to (scholarly) success. Her work and that of her colleagues have identified sets of beliefs associated with fixed vs growth mindsets. While everyone lies somewhere on the spectrum between these two extremes, their research has shown that students with a growth mindset were more successful and resilient. Fortunately, a growth mindset could be cultivated by educators and oneself. I now try to integrate recommended practices to nurture students’ growth mindset. For example, I go through examples with students and mentees and share my thought process with them and explain how the failure of current models (including those we are working on together) is required for scientific progress and personal growth. I do my best to provide specific, formative, and supportive feedback so that students understand where and why improvement is necessary.
 
 ### Inclusive teaching environment and mentoring practices
 
