@@ -34,3 +34,8 @@ Visual summary of research agenda</figcaption>
 I obtained my PhD in computational biology from the École Polytechnique Fédérale de Lausanne (EPFL), in Switzerland, where I worked on the molecular regulation of the circadian clock. In particular I was interested in the regulation of rhythmic gene expression and protein translation combining analyses of -omics data with mathematical models describing the regulatory dynamics to infer quantities otherwise not measurable.
 
 I have also specialized in the visualization of data and, during my industry experience, have helped companies and organizations to take data-driven decisions.
+
+
+```{=html}
+<center><img src="http://ghchart.rshah.org/lasy" alt="Laura Symul's Github chart" /, width = "100%", height = "100%"></a></center>
+```

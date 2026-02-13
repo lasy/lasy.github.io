@@ -7,6 +7,6 @@ venue: "UCLouvain"
 date: 2024-02-05
 ---
 
-Link to the [UCLouvain course explorer](https://uclouvain.be/cours-2023-lstat2340)
+Link to the [UCLouvain course explorer](https://uclouvain.be/cours-2025-lstat2340)
 
 For students: link to [Moodle](https://moodle.uclouvain.be/course/view.php?id=2964)
