@@ -9,6 +9,7 @@ paperurl: http://lasy.github.io/files/papers/2025_Potloane_VIBRANT.pdf
 
 Disebo Potloane, **Laura Symul**, Sinaye Ngcapu, Lara Lewis, Michael France, Laura Vermeren, Joseph Elsherbini, Callin Chetty, Nomfuneko Mafunda, Asthu Mahabeer Polliah, Andile Mtshali, Asavela Kama, Nzuzo Magini, Nireshni Mitchev, Gugulethu Mzobe, Anam Khan, Briah Cooley Demidkina, Miles Goldenberg, Jiawu Xu, Lindsay Rutt, Breanna Shirtliff, Sarah Cook, Jo-Ann S. Passmore, Heather B. Jaspan, Brian Kullin, Anna-Ursula Happel, Lenine Liebenberg, Susan Holmes, Douglas S. Kwon, Jacques Ravel, Caroline M. Mitchell
 
+Accepted at Cell Host & Microbes
 
 ![figure1](/images/publications/2025_VIBRANT.png)
 
