@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-  You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=en&user=Qi_sA3AAAAAJ">my Google Scholar profile</a>.</u>
+The most up-to-date list of publication can be found on <u><a href="https://scholar.google.com/citations?hl=en&user=Qi_sA3AAAAAJ">my Google Scholar profile</a>.</u>
 
+The list below provides `.pdf` copies of most publications.
 
 {% include base_path %}
 
