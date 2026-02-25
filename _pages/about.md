@@ -8,11 +8,12 @@ redirect_from:
 
 > ✨ Hiring! ✨
 > 
-> Hi there!
-> 
-> [ISBA](https://uclouvain.be/en/research-institutes/lidam/isba) is hiring doctoral students to assist with teaching and research. Contact us for more information, we are looking forward to meeting you 🤗 🤝
+> If you are interested in joining the team as a research assistant or postdoc, please, email me (laura.symul [at] uclouvain.be) your CVs and briefly describes your interests and motivations.
 >
+> I also regularly recruit master students ("jobistes") to help and assist with research, software development, teaching-related tasks, or research coordination. Feel free to reach out if you are interested.
 > 
+> In addition, each year, [ISBA](https://uclouvain.be/en/research-institutes/lidam/isba) opens a few positions for doctoral students to assist with teaching and research. Contact us for more information, we are looking forward to meeting you.
+>
 
 
 
