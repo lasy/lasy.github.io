@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Team"
+title: "Team & coworkers"
 permalink: /team/
 author_profile: true
 ---
 
-
+Some of the very nice people I'm lucky to work with :)
 
 ## PhD students
 
@@ -18,12 +18,12 @@ author_profile: true
 - Philippe Hauchamps, PhD
 - Lisa Arnalot, PhD
 
-## Consultants from UCLouvain Statistical Methodology and Computing Service (SMCS)
+## Consultants from [UCLouvain Statistical Methodology and Computing Service (SMCS)](https://sites.uclouvain.be/training/smcs/index.php?l=en)
 
 - Laura Vermeren
 - Séverine Guisset
 - Antoine Vanbeneden
-- Manon Martin
+- Manon Martin, PhD
 
 
 ## Research Assistant
