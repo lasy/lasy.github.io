@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-Some of the very nice people I'm lucky to work with :)
+The very nice people I'm lucky to work with :)
 
 ## PhD students
 
