@@ -12,6 +12,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Team"
+    url: /team/
+
   - title: "CV"
     url: /cv/
 
