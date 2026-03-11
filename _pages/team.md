@@ -26,7 +26,7 @@ The very nice people I'm lucky to work with :)
 - Manon Martin, PhD
 
 
-## Research Assistant
+## Research Assistants
 
 - Mariam Rahali Masbouri
 - Khadija Rahali Masbouri
