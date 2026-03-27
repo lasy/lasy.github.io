@@ -14,6 +14,6 @@ Disebo Potloane, **Laura Symul**, Sinaye Ngcapu, Lara Lewis, Michael France, Lau
 ![figure1](/images/publications/2025_VIBRANT.png)
 
 [Link to publication](https://doi.org/10.1016/j.chom.2026.02.016) |
-[Download pdf](http://lasy.github.io/files/papers/2025_Potloane_VIBRANT.pdf)
+[Download pdf](http://lasy.github.io/files/papers/2026_Potloane_VIBRANT.pdf)
 
 [Link to 2025 pre-print](https://www.medrxiv.org/content/10.1101/2025.09.18.25336053) 
