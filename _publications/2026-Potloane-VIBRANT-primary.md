@@ -1,7 +1,7 @@
 ---
 title: "VIBRANT: Vaginal lIve Biotherapeutic RANdomized Trial: A Phase 1 randomized trial of multi-strain vaginal *L. crispatus* live biotherapeutic products in people with bacterial vaginosis"
 collection: publications
-permalink: /publication/2025-Potloane-VIBRANT
+permalink: /publication/2026-Potloane-VIBRANT
 date: 2026-03-18
 venue: 'Cell Host & Microbe'
 paperurl: http://lasy.github.io/files/papers/2026_Potloane_VIBRANT.pdf
