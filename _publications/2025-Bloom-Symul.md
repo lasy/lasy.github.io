@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-Bloom-Symul
 date: 2026-03-27
 venue: 'Cell Host & Microbe'
-paperurl: http://lasy.github.io/files/papers/2025_Bloom_Symul_LactinV.pdf
+paperurl: http://lasy.github.io/files/papers/2026_Bloom_Symul_LactinV.pdf
 ---
 
 
