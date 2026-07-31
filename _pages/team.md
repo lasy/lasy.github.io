@@ -18,15 +18,15 @@ The very nice people I'm (or was) lucky to work with :)
 - Philippe Hauchamps, PhD
 - Lisa Arnalot, PhD
 
+## Research Assistants
+
+- Elise Bertrand
+
 ## Consultants from [UCLouvain Statistical Methodology and Computing Service (SMCS)](https://sites.uclouvain.be/training/smcs/index.php?l=en)
 
 - Laura Vermeren
 - Séverine Guisset
 - Manon Martin, PhD
-
-## Research Assistants
-
-- Elise Bertrand
 
 ## Master students
 
