@@ -35,10 +35,6 @@ The very nice people I'm (or was) lucky to work with :)
 
 ## Past team members
 
-### Consultants from [UCLouvain Statistical Methodology and Computing Service (SMCS)](https://sites.uclouvain.be/training/smcs/index.php?l=en)
-
-- Antoine Vanbeneden, PhD
-
 ### Research Assistants
 
 - Mariam Rahali Masbouri
@@ -53,3 +49,8 @@ The very nice people I'm (or was) lucky to work with :)
 - Mariam Rahali Masbouri
 - Khadija Rahali Masbouri
 - Florent Dupret
+
+
+### Consultants ([SMCS](https://sites.uclouvain.be/training/smcs/index.php?l=en))
+
+- Antoine Vanbeneden, PhD
