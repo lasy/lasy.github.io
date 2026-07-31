@@ -30,6 +30,7 @@ The very nice people I'm (or was) lucky to work with :)
 
 ## Master students
 
+- Lucie Rascol
 - Joséphine Adam
 
 ## Past team members
@@ -42,3 +43,13 @@ The very nice people I'm (or was) lucky to work with :)
 
 - Mariam Rahali Masbouri
 - Khadija Rahali Masbouri
+
+### Master students
+
+- Louis-David Piron
+- Maxime Cornez
+- Léa Ivanov
+- Sézarine Jouoguep Nanmegne
+- Mariam Rahali Masbouri
+- Khadija Rahali Masbouri
+- Florent Dupret
