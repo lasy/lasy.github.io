@@ -7,28 +7,30 @@ author_profile: true
 
 The very nice people I'm (or was) lucky to work with :)
 
-## PhD students
+## Current team members
+
+### PhD students
 
 - Madeline Vast
 - Guillaume Deside
 - Véronique Tissot
 
-## Postdocs
+### Postdocs
 
 - Philippe Hauchamps, PhD
 - Lisa Arnalot, PhD
 
-## Research Assistants
+### Research Assistants
 
 - Elise Bertrand
 
-## Consultants from [UCLouvain Statistical Methodology and Computing Service (SMCS)](https://sites.uclouvain.be/training/smcs/index.php?l=en)
+### Consultants from [UCLouvain Statistical Methodology and Computing Service (SMCS)](https://sites.uclouvain.be/training/smcs/index.php?l=en)
 
 - Laura Vermeren
 - Séverine Guisset
 - Manon Martin, PhD
 
-## Master students
+### Master students
 
 - Lucie Rascol
 - Joséphine Adam
